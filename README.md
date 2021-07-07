@@ -29,5 +29,7 @@ docker-compose up -d
 ./gradlew bootRun
 ```
 
+- Get data from Redis: http://localhost:8080/coffees
+
 ## Links
 - [Accessing Data Reactively with Redis](https://spring.io/guides/gs/spring-data-reactive-redis/)
